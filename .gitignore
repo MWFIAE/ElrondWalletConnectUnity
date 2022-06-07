@@ -1,0 +1,12 @@
+.vs/
+Library/
+Logs/
+Temp/
+UserSettings/
+*.vsconfig
+*.csproj
+*.sln
+Demo.apk
+obj/
+*.apk
+Builds/
